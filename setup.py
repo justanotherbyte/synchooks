@@ -7,7 +7,7 @@ long_description = "My minimal discord webhook impl"
 setup(
     name='synchooks',
     description=long_description,
-    author='AXVin',
+    author='justanotherbyte',
     version=version,
     license='AGPL v3',
     url='https://github.com/justanotherbyte/synchooks',
